@@ -1,3 +1,6 @@
+# THIS IS A FORK OF THE ORIGINAL PROJECT 
+  - https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk.git
+  
 <div align="center">
 <img src="./assets/AIHawk.png">
 
