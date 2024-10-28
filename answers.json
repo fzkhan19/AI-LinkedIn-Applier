@@ -1,0 +1,987 @@
+[
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "faizpathan1717@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "India (+91)"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with react.js?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with svelte?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with responsive web design?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable working in a remote setting?are you comfortable working in a remote setting?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with node.js?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "in how many days can you start?",
+        "answer": 10
+    },
+    {
+        "type": "numeric",
+        "question": "what is your expected ctc?",
+        "answer": 600000
+    },
+    {
+        "type": "radio",
+        "question": "hispanic or latinoamerican indian or alaska native (not hispanic or latino)asian (not hispanic or latino)black or african american (not hispanic or latino)native hawaiian or other pacific islander (not hispanic or latino)two or more races (not hispanic or latino)white (not hispanic or latino)i prefer not to specify",
+        "answer": "i prefer not to specify"
+    },
+    {
+        "type": "radio",
+        "question": "gendergenderrequiredmalefemalei prefer not to specify",
+        "answer": "Male"
+    },
+    {
+        "type": "radio",
+        "question": "i identify as one or more of the classifications of protected veteran listed abovei am not a protected veterani prefer not to specify",
+        "answer": "i prefer not to specify"
+    },
+    {
+        "type": "radio",
+        "question": "yes, i have a disability, or have had one in the pastno, i do not have a disability and have not had one in the pasti do not want to answer",
+        "answer": "no, i do not have a disability and have not had one in the past"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with javascript?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of software development experience do you currently have?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "emailemail",
+        "answer": "faizpathan1717@gmail.com"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with typescript?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with strapi.js?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with aws lambda?",
+        "answer": 1
+    },
+    {
+        "type": "dropdown",
+        "question": "have you ever build an event driven serverless application ?have you ever build an event driven serverless application ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with next.js?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "could you please share your current ctc?",
+        "answer": 500000
+    },
+    {
+        "type": "numeric",
+        "question": "what is your expected ctc for this role?",
+        "answer": 600000
+    },
+    {
+        "type": "numeric",
+        "question": "what is your current notice period with your present employer?",
+        "answer": 30
+    },
+    {
+        "type": "textbox",
+        "question": "what is your current notice period with your present employer?",
+        "answer": 30
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience in web3 industry?do you have experience in web3 industry?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "please enter your notice period in days",
+        "answer": 30
+    },
+    {
+        "type": "textbox",
+        "question": "please enter your notice period in days",
+        "answer": 30
+    },
+    {
+        "type": "numeric",
+        "question": "please enter your ctc in inr",
+        "answer": 600000
+    },
+    {
+        "type": "dropdown",
+        "question": "8+ years of react js experiance? 8+ years of react js experiance?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "immediate joining? immediate joining?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "banking domain expert?banking domain expert?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with web development?",
+        "answer": 3
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable commuting to this job's location?are you comfortable commuting to this job's location?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with docker products?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with webgl?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with c#?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years experience with unity3d?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with websocket data encryptiondo you have experience with websocket data encryption",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you live in either poland, czechia or slovakia?do you live in either poland, czechia or slovakia?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with rest apis?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with representational state transfer (rest)?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have university degree, combined with professional it experience of more than 10 years?do you have university degree, combined with professional it experience of more than 10 years?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you willing to work on a freelance/b2b contract?are you willing to work on a freelance/b2b contract?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you hold an eu citizenship or a valid visa (which doesnt require sponsorship)?do you hold an eu citizenship or a valid visa (which doesnt require sponsorship)?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with azure blob storage or azure data lake storage gen 2 ?do you have experience with azure blob storage or azure data lake storage gen 2 ?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with sharepoint patterns and practices (pnp) framework (deployment templates), site and list templates, the sharepoint framework (spfx), sharepoint rest api\u2019s ?do you have experience with sharepoint patterns and practices (pnp) framework (deployment templates), site and list templates, the sharepoint framework (spfx), sharepoint rest api\u2019s ?",
+        "answer": "No"
+    },
+    {
+        "type": "radio",
+        "question": "by checking this box, you will declare that you read and agree to the smartrecruiters\u2019 privacy policy and smartrecruiters  terms of use.by checking this box, you will declare that you read and agree to the smartrecruiters\u2019and smartrecruiters.requiredi agree terms & conditions",
+        "answer": "i agree terms & conditions"
+    },
+    {
+        "type": "radio",
+        "question": "can you work in your current location without any visa restrictions?can you work in your current location without any visa restrictions?requiredyesno",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "what is your level of proficiency in english?what is your level of proficiency in english?",
+        "answer": "Native or bilingual"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cascading style sheets (css)?",
+        "answer": 3
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed your bachelor's degree in computer science?have you completed your bachelor's degree in computer science?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "would you like to receive emails, text messages, or phone calls about this job and other matching opportunities?would you like to receive emails, text messages, or phone calls about this job and other matching opportunities?",
+        "answer": "Yes"
+    },
+    {
+        "type": "radio",
+        "question": "are you willing to undergo a background check, in accordance with local law/regulations?are you willing to undergo a background check, in accordance with local law/regulations?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "are you willing to take a drug test, in accordance with local law/regulations?are you willing to take a drug test, in accordance with local law/regulations?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "can you immediately work on a w2 contract? (cannot work c2c/1099)can you immediately work on a w2 contract? (cannot work c2c/1099)",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in the united states?are you legally authorized to work in the united states?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "what is your desired salary?",
+        "answer": 40000
+    },
+    {
+        "type": "dropdown",
+        "question": "are you able to travel to arkansas 1x a quarter?are you able to travel to arkansas 1x a quarter?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with html?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with redux.js?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with user interface design?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with distributed systems?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with vue.js?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience on spring mvc, spring core, spring boot ?do you have experience on spring mvc, spring core, spring boot ?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "landesvorwahllandesvorwahl",
+        "answer": "Indien (+91)"
+    },
+    {
+        "type": "dropdown",
+        "question": "what is your level of proficiency in japanese?what is your level of proficiency in japanese?",
+        "answer": "None"
+    },
+    {
+        "type": "dropdown",
+        "question": "what is your level of proficiency in german?what is your level of proficiency in german?",
+        "answer": "None"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft sql server?",
+        "answer": 0
+    },
+    {
+        "type": "radio",
+        "question": "do you consent to being contacted about this job via text/sms?do you consent to being contacted about this job via text/sms?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "what is your current work authorization status?what is your current work authorization status?requiredu.s. citizengreencardh1bother",
+        "answer": "indian citizen"
+    },
+    {
+        "type": "dropdown",
+        "question": "mpc certified (mpc = medallia product certificate)mpc certified (mpc = medallia product certificate)",
+        "answer": "No"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "7802844364"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Faizkhan \n"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Pathan \n"
+    },
+    {
+        "type": "numeric",
+        "question": "what is your expected ctc salary in lakh per annum (that will have pf and tds deductions)?",
+        "answer": 600000
+    },
+    {
+        "type": "numeric",
+        "question": "what is your current ctc salary in lakh per annum?",
+        "answer": 500000
+    },
+    {
+        "type": "numeric",
+        "question": "if offered the role, within how many days will you be able to join?",
+        "answer": 30
+    },
+    {
+        "type": "radio",
+        "question": "have you completed the following level of education: bachelor's degree?have you completed the following level of education: bachelor's degree?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with html5?",
+        "answer": 5
+    },
+    {
+        "type": "numeric",
+        "question": "whats your current/last drawn ctc in lakhs/year?",
+        "answer": 5
+    },
+    {
+        "type": "numeric",
+        "question": "how many days would you need to join if given an offer?",
+        "answer": 10
+    },
+    {
+        "type": "dropdown",
+        "question": "did you read the detailed jd, and browse through our website www.superagi.com to get insights into what we do?did you read the detailed jd, and browse through our website www.superagi.com to get insights into what we do?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "whats your expected ctc in lakhs/year?",
+        "answer": 6
+    },
+    {
+        "type": "textbox",
+        "question": "location (city)location (city)",
+        "answer": "Surat, Gujarat, India \n"
+    },
+    {
+        "type": "textbox",
+        "question": "allowance monthly",
+        "answer": "500000"
+    },
+    {
+        "type": "numeric",
+        "question": "what is your official notice period?",
+        "answer": 30
+    },
+    {
+        "type": "textbox",
+        "question": "portfolio",
+        "answer": "https://faiz-khan.in"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available 5 days a week to start the internship are you available 5 days a week to start the internship",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you hold european union citizenship?do you hold european union citizenship?",
+        "answer": "No"
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in united kingdom?are you legally authorized to work in united kingdom?requiredyesno",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with python (programming language)?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with django?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you require sponsorship to work in the uk?do you require sponsorship to work in the uk?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with git?",
+        "answer": 5
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with angular?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "are you aware this is an unpaid voluntary role?are you aware this is an unpaid voluntary role?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you able to commit a minimum of 10/15 hours a week?are you able to commit a minimum of 10/15 hours a week?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable presenting technical concepts to non-technical stakeholders?are you comfortable presenting technical concepts to non-technical stakeholders?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you consider yourself a strong problem solver? do you consider yourself a strong problem solver?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you successfully resolved a significant technical issue in the past?have you successfully resolved a significant technical issue in the past?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you open to learning new technologies as needed? are you open to learning new technologies as needed?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you adapted to using new frameworks or languages in your work? have you adapted to using new frameworks or languages in your work?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you able to conduct regular team meetings?are you able to conduct regular team meetings?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have the time to commit to this role on a regular basis? do you have the time to commit to this role on a regular basis?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you able to work independently with minimal supervision?are you able to work independently with minimal supervision?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have a genuine interest in contributing to our organisation\u2019s mission? do you have a genuine interest in contributing to our organisation\u2019s mission?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you motivated to take on leadership responsibilities in a voluntary capacity? are you motivated to take on leadership responsibilities in a voluntary capacity?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you worked with cloud platforms such as aws or azure? have you worked with cloud platforms such as aws or azure?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you previously volunteered in a technical role or for a non-profit organisation? have you previously volunteered in a technical role or for a non-profit organisation?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you believe in the value of open-source or community-driven projects? do you believe in the value of open-source or community-driven projects?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have a reliable internet connection for remote work? do you have a reliable internet connection for remote work?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have the necessary tools to work remotely (e.g., computer, software)? do you have the necessary tools to work remotely (e.g., computer, software)?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable receiving feedback on your work? are you comfortable receiving feedback on your work?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have a portfolio or examples of previous work to share? do you have a portfolio or examples of previous work to share?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you able to start as soon as possible?are you able to start as soon as possible?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with docker or other containerization tools? do you have experience with docker or other containerization tools?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you implemented ci/cd processes in your previous projects? have you implemented ci/cd processes in your previous projects?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you familiar with web security best practices? are you familiar with web security best practices?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you held a leadership role in a technical team before? have you held a leadership role in a technical team before?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you enjoy mentoring junior developers? do you enjoy mentoring junior developers?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you collaborated with product managers or designers on projects?have you collaborated with product managers or designers on projects?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you led code review processes in your previous roles? have you led code review processes in your previous roles?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with github?",
+        "answer": 5
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with flutter?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have any experience working with palantir foundry?do you have any experience working with palantir foundry?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in cosmos sdk, cometbft, and other modern consensus algorithms?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with java?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with android development?",
+        "answer": 0
+    },
+    {
+        "type": "radio",
+        "question": "will you now or in the future require sponsorship for employment visa status?will you now or in the future require sponsorship for employment visa status?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with shopify?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "i consent to jobgether using my application data to assess my fit for this job, and providing me with feedback.i consent to jobgether using my application data to assess my fit for this job, and providing me with feedback.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "is your recent work experience in resct.js?is your recent work experience in resct.js?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have strong frontend experience building complex ui?do you have strong frontend experience building complex ui?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with smart contracts?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with solidity?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "nodejsnodejs",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "eu citizeneu citizen",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have 3+ years experience as front end / ui developer and have worked on large multinational projects within finance / banking, healthcare or pharma?do you have 3+ years experience as front end / ui developer and have worked on large multinational projects within finance / banking, healthcare or pharma?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with blockchain?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with hyperledger?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with devops?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with react native?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with mern stack?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "what is your official notice period(in days)",
+        "answer": 30
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with reactjs?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with golang?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with amazon web services (aws)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have as a full-stack software engineer working on ecommerce marketplace products?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "what's your expected salary range?",
+        "answer": 30000
+    },
+    {
+        "type": "dropdown",
+        "question": "are you authorized to work in one of the countries below? if no, please do not submit an application!are you authorized to work in one of the countries below? if no, please do not submit an application!",
+        "answer": "INDIA"
+    },
+    {
+        "type": "radio",
+        "question": "are you 18 years old or older? (must be 18+)are you 18 years old or older? (must be 18+)requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "are you 18 years of age or older?are you 18 years of age or older?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "make sure to check not only your regular email for our response but your spam folder if you don't see it. you will be sent the zoom information to choose a date and time as well.make sure to check not only your regular email for our response but your spam folder if you don't see it. you will be sent the zoom information to choose a date and time as well.requiredi understand",
+        "answer": "i understand"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of engineering experience do you currently have?",
+        "answer": 3
+    },
+    {
+        "type": "dropdown",
+        "question": "do tyou have complete 4 years experience either is javascript or typescript. ( the resume would not be considered without it. do tyou have complete 4 years experience either is javascript or typescript. ( the resume would not be considered without it.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "5 years total experience excludes internship or freelancing projects 5 years total experience excludes internship or freelancing projects",
+        "answer": "No"
+    },
+    {
+        "type": "radio",
+        "question": "have you completed the following level of education: master's degree?have you completed the following level of education: master's degree?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with information technology?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft power bi?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with caspio?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "have you created web-based applications using caspio?have you created web-based applications using caspio?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you built any amm dex or swap protocols? have you built any amm dex or swap protocols?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience building any peer-to-peer swaps or escrow contracts and vaults?do you have experience building any peer-to-peer swaps or escrow contracts and vaults?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience deploying uniswap v3 ?do you have experience deploying uniswap v3 ?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have any experience with zero knowledge proofs and layer 2 rollups?do you have any experience with zero knowledge proofs and layer 2 rollups?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have any experience working with modular blockchains like celestia, arbitrum nitro stack and deploying l2 rollups on them? do you have any experience working with modular blockchains like celestia, arbitrum nitro stack and deploying l2 rollups on them?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with .net core?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "this role is for founding employee who will build the company with us, are you comfortable with an equity-heavy compensation package for the initial months?this role is for founding employee who will build the company with us, are you comfortable with an equity-heavy compensation package for the initial months?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many overall years of experience do you have ?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many overall years of experience do you have in react.js development ?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many overall years of experience do you have in php development ?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many overall years of experience do you have in aws ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with powershell?",
+        "answer": 2022
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience in either shell or powershell scripting?do you have experience in either shell or powershell scripting?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "adresse e-mailadresse e-mail",
+        "answer": "faizpathan1717@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "code payscode pays",
+        "answer": "India (+91)"
+    },
+    {
+        "type": "textbox",
+        "question": "num\u00e9ro de t\u00e9l\u00e9phone portable",
+        "answer": "7802844364"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with rust (programming language)?",
+        "answer": 0
+    },
+    {
+        "type": "textbox",
+        "question": "phone",
+        "answer": "+91 7802844364"
+    },
+    {
+        "type": "numeric",
+        "question": "what is your total years of experience ?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with apollo graphql?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in building frameworks with react.js?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with webpack ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with socket.io ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with material ui ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "what is your notice period?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with localization ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with react query?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience in building desktop app with electron.js?do you have experience in building desktop app with electron.js?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience in building mobile apps?do you have experience in building mobile apps?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you build communications app before ?have you build communications app before ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with business strategy?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with business modeling?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with gap analysis?",
+        "answer": 0
+    }
+]

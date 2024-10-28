@@ -1,7 +1,7 @@
 remote: true
 
 experienceLevel:
-  internship: true
+  internship: false
   entry: true
   associate: true
   mid-senior level: false
@@ -15,7 +15,7 @@ jobTypes:
   temporary: true
   internship: true
   other: true
-  volunteer: true
+  volunteer: false
 
 date:
   all time: false
@@ -24,25 +24,32 @@ date:
   24 hours: true
 
 positions:
-  - Frontend Developer
-  - Next.js
-  - Web Developer
-  - React Developer
-  - Fullstack Developer
+  - "Next.js"
+  - "Frontend Developer"
+  - "React Developer"
+  - "Web Developer"
+  - "Fullstack Developer"
 
 locations:
-  - Remote
-  - Hof
-  - Saarbrücken
-  - Bayreuth
-  - Berlin
-  - London
-  - Paris
-  - Michigan
-  - New York
-  - Tokyo
-  - USA
-  - Germany
+  - "Surat, Gujarat, India"
+  - "Mumbai, Maharashtra, India"
+  - "Pune, Maharashtra, India"
+  - "Bangalore, Karnataka, India"
+  - "Hyderabad, Telangana, India"
+  - "Chennai, Tamil Nadu, India"
+  - "Ahmedabad, Gujarat, India"
+  - "Germany"
+  - "USA"
+  - "Hof"
+  - "Saarbrücken"
+  - "Bayreuth"
+  - "Berlin"
+  - "London"
+  - "Paris"
+  - "Michigan"
+  - "New York"
+  - "Tokyo"
+  - "Remote"
 
 apply_once_at_company: true
 
@@ -51,13 +58,20 @@ distance: 100
 company_blacklist:
 
 title_blacklist:
-  - golang
-  - go
+  - "golang"
+  - "go"
+  - "Java"
+  - "Angular"
+  - "Angular Js"
+  - "Vue Js"
+  - "Vue"
+  - "Vue.js"
+  - "Python"
 
 job_applicants_threshold:
   min_applicants: 0
   max_applicants: 30
 
-llm_model_type: gemini
-llm_model: 'gemini-1.5-flash'
-# llm_api_url:'https://api.pawan.krd/cosmosrp/v1'
+llm_model_type: ollama
+llm_model: 'llama3.2:latest'
+llm_api_url: 'http://127.0.0.1:11434/'
