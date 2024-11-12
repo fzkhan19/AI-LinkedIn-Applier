@@ -983,5 +983,995 @@
         "type": "numeric",
         "question": "how many years of work experience do you have with gap analysis?",
         "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with .net framework?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience in azure functions, blob storage, azure vm/sqldo you have experience in azure functions, blob storage, azure vm/sql",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with tailwind css?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have working using shadcn?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "what is your notice period (in days) ?",
+        "answer": 30
+    },
+    {
+        "type": "numeric",
+        "question": "what is your current salary (annual) ?",
+        "answer": 400000
+    },
+    {
+        "type": "numeric",
+        "question": "what is your experience in (dotnet + react) ?",
+        "answer": 3
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed any individual projects in php?have you completed any individual projects in php?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed any part-time or freelance projects for third-party companies?have you completed any part-time or freelance projects for third-party companies?",
+        "answer": "Yes"
+    },
+    {
+        "type": "textbox",
+        "question": "street address line 1",
+        "answer": "401-Al Madina apt."
+    },
+    {
+        "type": "textbox",
+        "question": "citycity",
+        "answer": "Surat"
+    },
+    {
+        "type": "textbox",
+        "question": "zip / postal code",
+        "answer": "395003"
+    },
+    {
+        "type": "textbox",
+        "question": "state",
+        "answer": "Gujarat"
+    },
+    {
+        "type": "numeric",
+        "question": "what is your current ctc in lakhs per year?",
+        "answer": 400000
+    },
+    {
+        "type": "numeric",
+        "question": "what is your notice period in days?",
+        "answer": 30
+    },
+    {
+        "type": "dropdown",
+        "question": "we must fill this position urgently. can you start immediately or max 15 days?we must fill this position urgently. can you start immediately or max 15 days?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience in backend development with node.js and expressjs?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "maximum budget for this role is 20 to 24 lpa. please confirm if this is in line with your expectations?maximum budget for this role is 20 to 24 lpa. please confirm if this is in line with your expectations?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "what is your current ctc?",
+        "answer": 400000
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable with evening shift?are you comfortable with evening shift?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have with microsoft azure?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have with hyper-v vm, windows server, iis server?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable with 6-month's contractual role which is extendable? are you comfortable with 6-month's contractual role which is extendable?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with spring boot?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable working in a remote setting in usa shift 3pm to 12am ist?are you comfortable working in a remote setting in usa shift 3pm to 12am ist?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "current ctc in lpa",
+        "answer": 400000
+    },
+    {
+        "type": "numeric",
+        "question": "expected ctc in lpa",
+        "answer": 600000
+    },
+    {
+        "type": "numeric",
+        "question": "notice period in days",
+        "answer": 30
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of information technology experience do you currently have?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with identity and access management (iam)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sailpoint?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "mention your current ctc",
+        "answer": 400000
+    },
+    {
+        "type": "numeric",
+        "question": "mention your expected ctc",
+        "answer": 600000
+    },
+    {
+        "type": "dropdown",
+        "question": "the max ctc offered for this role is 21 lakhs per annum (which will have pf, tds deductions). do you agree to work at this pay if hired?the max ctc offered for this role is 21 lakhs per annum (which will have pf, tds deductions). do you agree to work at this pay if hired?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cesium.js?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with 3d visualization?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of total experience do you have?",
+        "answer": 3
+    },
+    {
+        "type": "dropdown",
+        "question": "are you open to work in a contractual position?are you open to work in a contractual position?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have in total?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how immedaite can you join?",
+        "answer": 30
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with postgresql?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with databases?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with php?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with mysql?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have any experience in university erp,crm, hrms?do you have any experience in university erp,crm, hrms?",
+        "answer": "Yes"
+    },
+    {
+        "type": "textbox",
+        "question": "website",
+        "answer": "https://faiz-khan.in"
+    },
+    {
+        "type": "textbox",
+        "question": "how did you hear about this job?",
+        "answer": "LinkedIn"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you legally authorized to work in the united kingdom?are you legally authorized to work in the united kingdom?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "will you now or in the future require sponsorship for employment visa / work authorization status?will you now or in the future require sponsorship for employment visa / work authorization status?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you been employed by gemini in the past?have you been employed by gemini in the past?",
+        "answer": "No"
+    },
+    {
+        "type": "radio",
+        "question": "applicant privacy statementapplicant privacy statementrequiredby clicking this box and submitting your application, you consent to our applicant privacy statement.",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cloud computing?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with api development?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in japan?are you legally authorized to work in japan?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9",
+        "answer": "faizpathan1717@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "\u96fb\u8a71\u306e\u56fd\u30b3\u30fc\u30c9\u96fb\u8a71\u306e\u56fd\u30b3\u30fc\u30c9",
+        "answer": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9 (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "\u643a\u5e2f\u96fb\u8a71\u756a\u53f7",
+        "answer": "\u643a\u5e2f\u96fb\u8a71\u756a\u53f7\u306f'+91 7802844364'\u3067\u3059\u3002"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft azure?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "this is a contractual freelancing opportunity. are you good with this?this is a contractual freelancing opportunity. are you good with this?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you currently working remotely?are you currently working remotely?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in fastapi?",
+        "answer": 1
+    },
+    {
+        "type": "dropdown",
+        "question": "are you working somewhere as full time employee?are you working somewhere as full time employee?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of sdet experience do you currently have?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have an experience with backend testing? do you have an experience with backend testing?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cross-functional collaborations?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with drupal?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sharepoint?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sharepoint framework (spfx)?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "are you okay to work in uk shift ?are you okay to work in uk shift ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you okay with contract to hire role ?are you okay with contract to hire role ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with rasa platform?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with conversational ai?",
+        "answer": 1
+    },
+    {
+        "type": "dropdown",
+        "question": "have you worked on conversational projects building chatbots / voicebots ?have you worked on conversational projects building chatbots / voicebots ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft endpoint configuration manager?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with end user training?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sql?",
+        "answer": 1
+    },
+    {
+        "type": "textbox",
+        "question": "address",
+        "answer": "401-Al Madina apt., Chadaole, near masjid-e-ibhrahim, Rampura"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with qa automation?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "what is your minimum expected gross yearly salary in eur (ie: before taxes)?",
+        "answer": 20000
+    },
+    {
+        "type": "dropdown",
+        "question": "e-mail-adressee-mail-adresse",
+        "answer": "faizpathan1717@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "handynummer",
+        "answer": "phone='7802844364'"
+    },
+    {
+        "type": "numeric",
+        "question": "wie viele jahre erfahrung haben sie mit: schulung?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "wie viele jahre erfahrung haben sie mit: blended learning?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "wie gut beherrschen sie deutsch?wie gut beherrschen sie deutsch?",
+        "answer": "Muttersprache oder zweisprachig"
+    },
+    {
+        "type": "numeric",
+        "question": "wie viele jahre erfahrung in dieser branche bringen sie mit: versorgungsdienstleistungen?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "wie viele jahre erfahrung haben sie mit: node.js?",
+        "answer": 1
+    },
+    {
+        "type": "radio",
+        "question": "haben sie folgenden abschluss bzw. bildungsgrad: bachelor?haben sie folgenden abschluss bzw. bildungsgrad: bachelor?requiredjanein",
+        "answer": "ja"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with vanilla javascript?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with backbone.js?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with jquery?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "how many years of work experience do you have with system design (hld/lld)?how many years of work experience do you have with system design (hld/lld)?",
+        "answer": "0"
+    },
+    {
+        "type": "dropdown",
+        "question": "how many years of work experience do you have with ds algo?how many years of work experience do you have with ds algo?",
+        "answer": "2"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you fine with individual contributor role?are you fine with individual contributor role?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with data privacy?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with languages: c#, javascript (es6+) ?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with frameworks: .net core, asp.net, react ?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with web technologies: html5, css3, json, rest apis ?",
+        "answer": 5
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with state management: redux ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with azure or aws ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "current ctc ?",
+        "answer": 400000
+    },
+    {
+        "type": "numeric",
+        "question": "expected ctc ?",
+        "answer": 600000
+    },
+    {
+        "type": "numeric",
+        "question": "currently you are working which mode 1.remote 2.onsite 3.hybrid ?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with xaml?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with windows presentation foundation (wpf)?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with asp.net web api?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with [react / angular]?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with rabbit mq or kafka ?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with aws or azure ?",
+        "answer": 1
+    },
+    {
+        "type": "dropdown",
+        "question": "immediate joiner or 30 days notice period ?immediate joiner or 30 days notice period ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "job location is pure or bangalorejob location is pure or bangalore",
+        "answer": "Pune"
+    },
+    {
+        "type": "numeric",
+        "question": "years of experience working with angular framework.",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with graphql?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with xml?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in building payment gateway or payment processor from scratch?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in graphql ?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in dynomo db?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "do you have experience in payment technologies with integrating apple pay, google pay, and card payments?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of hands-on experience do you have with nfc-based payment technologies?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how much is your current ctc?",
+        "answer": 400000
+    },
+    {
+        "type": "numeric",
+        "question": "how much is your expected ctc?",
+        "answer": 600000
+    },
+    {
+        "type": "numeric",
+        "question": "depuis combien d\u2019ann\u00e9es utilisez-vous react.js ?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "depuis combien d\u2019ann\u00e9es utilisez-vous typescript ?",
+        "answer": 1
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have work experience with llms?do you have work experience with llms?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with three.js?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with mastercam?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cnc programming?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of software engineering experience do you currently have?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with trading systems?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft exchange?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with ios development?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "depuis combien d\u2019ann\u00e9es utilisez-vous python (langage de programmation) ?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "accepteriez-vous de travailler \u00e0 distance ?accepteriez-vous de travailler \u00e0 distance ?requiredouinon",
+        "answer": "oui"
+    },
+    {
+        "type": "radio",
+        "question": "nous devons pourvoir ce poste rapidement. pouvez-vous commencer imm\u00e9diatement ?nous devons pourvoir ce poste rapidement. pouvez-vous commencer imm\u00e9diatement ?requiredouinon",
+        "answer": "oui"
+    },
+    {
+        "type": "dropdown",
+        "question": "how do you know about this position? / \u3053\u306e\u52df\u96c6\u3092\u3069\u306e\u3088\u3046\u306b\u77e5\u308a\u307e\u3057\u305f\u304b\uff1fhow do you know about this position? / \u3053\u306e\u52df\u96c6\u3092\u3069\u306e\u3088\u3046\u306b\u77e5\u308a\u307e\u3057\u305f\u304b\uff1f",
+        "answer": "Mercari Career Site / \u30e1\u30eb\u30ab\u30ea\u30b0\u30eb\u30fc\u30d7\u306e\u63a1\u7528\u30b5\u30a4\u30c8"
+    },
+    {
+        "type": "textbox",
+        "question": "if your application is a referral from an employee of mercari group, please enter the employee's name. if your application is not a referral, please enter na. / \u4eca\u56de\u306e\u5fdc\u52df\u304c\u30e1\u30eb\u30ab\u30ea\u30b0\u30eb\u30fc\u30d7\u793e\u54e1\u306b\u3088\u308b\u7d39\u4ecb\u306e\u5834\u5408\u3001\u793e\u54e1\u540d\u3092\u8a18\u5165\u4e0b\u3055\u3044\u3002\u8a72\u5f53\u3057\u306a\u3044\u5834\u5408\u306fna\u3068\u3054\u8a18\u5165\u4e0b\u3055\u3044\u3002",
+        "answer": "\u306a\u306b\u3088\u3046\u304b\u3002\u540d\u524d\u306f\u4f55\u3067\u3059\u304b\u3002/ How are you? Name is [Unknown]."
+    },
+    {
+        "type": "dropdown",
+        "question": "please indicate your gender (we process your gender for statistical reasons and separated from the recruitment process to foster inclusivity and diversity) / \u6027\u5225\u3092\u3054\u9078\u629e\u304f\u3060\u3055\u3044\u3002 \uff08\u30e1\u30eb\u30ab\u30ea\u3067\u306f\u4e0a\u8a18\u306e\u60c5\u5831\u3092\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3\u30fc\u3001\u30a4\u30f3\u30af\u30eb\u30fc\u30b7\u30d3\u30c6\u30a3\u306e\u4fc3\u9032\u306e\u305f\u3081\u306e\u7d71\u8a08\u76ee\u7684\u3067\u8abf\u67fb\u3057\u3066\u304a\u308a\u307e\u3059\u304c\u3001\u3044\u305f\u3060\u3044\u305f\u56de\u7b54\u306f\u63a1\u7528\u30d7\u30ed\u30bb\u30b9\u306b\u306f\u4e00\u5207\u5f71\u97ff\u3057\u307e\u305b\u3093\u3002\uff09please indicate your gender (we process your gender for statistical reasons and separated from the recruitment process to foster inclusivity and diversity) / \u6027\u5225\u3092\u3054\u9078\u629e\u304f\u3060\u3055\u3044\u3002 \uff08\u30e1\u30eb\u30ab\u30ea\u3067\u306f\u4e0a\u8a18\u306e\u60c5\u5831\u3092\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3\u30fc\u3001\u30a4\u30f3\u30af\u30eb\u30fc\u30b7\u30d3\u30c6\u30a3\u306e\u4fc3\u9032\u306e\u305f\u3081\u306e\u7d71\u8a08\u76ee\u7684\u3067\u8abf\u67fb\u3057\u3066\u304a\u308a\u307e\u3059\u304c\u3001\u3044\u305f\u3060\u3044\u305f\u56de\u7b54\u306f\u63a1\u7528\u30d7\u30ed\u30bb\u30b9\u306b\u306f\u4e00\u5207\u5f71\u97ff\u3057\u307e\u305b\u3093\u3002\uff09",
+        "answer": "Male / \u7537\u6027"
+    },
+    {
+        "type": "textbox",
+        "question": "if any of the following conditions may apply, please inform us to ensure an appropriate assignment and secure a healthy working environment for you when you join the company. (any disabilities that require special assistance, any injuries or illnesses in your medical history that could get in the way of your work, any mental illness, etc. that you had to take leave or a long break, or anything else that the recruiter should be aware of) if none applies, please enter na. / \u5165\u793e\u5f8c\u306e\u9069\u6b63\u914d\u7f6e\u53ca\u3073\u5065\u5eb7\u78ba\u4fdd\u306e\u89b3\u70b9\u304b\u3089\u3001\u6b21\u306e\u4e8b\u9805\u306b\u8a72\u5f53\u3059\u308b\u5834\u5408\u306f\u304a\u77e5\u3089\u305b\u304f\u3060\u3055\u3044\u3002 \uff08\u969c\u304c\u3044\u3092\u304a\u6301\u3061\u306e\u65b9\u3067\u7279\u5225\u306a\u63f4\u52a9\u3092\u5fc5\u8981\u3068\u3059\u308b\u65b9 / \u696d\u52d9\u306b\u3042\u305f\u308b\u3046\u3048\u3067\u652f\u969c\u304c\u3042\u308b\u3088\u3046\u306a\u50b7\u75c5\u6b74\u304c\u3042\u308b\u65b9 / \u30e1\u30f3\u30bf\u30eb\u75be\u60a3\u7b49\u306b\u3088\u308a\u4f11\u8077\u3084\u307e\u3068\u307e\u3063\u305f\u304a\u4f11\u307f\u3092\u53d6\u5f97\u3057\u305f\u3053\u3068\u304c\u3042\u308b\u65b9 / \u305d\u306e\u4ed6\u30ea\u30af\u30eb\u30fc\u30bf\u30fc\u304c\u914d\u616e\u3059\u3079\u304d\u3053\u3068\u304c\u3042\u308b\u65b9\uff09\u306a\u304a\u3001\u8a72\u5f53\u304c\u306a\u3044\u5834\u5408\u306fna\u3068\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002",
+        "answer": "No disabilities that require special assistance."
+    },
+    {
+        "type": "radio",
+        "question": "have you ever directly or indirectly applyed to any positions of mercari group? / \u904e\u53bb\u306b\u3054\u81ea\u8eab\u307e\u305f\u306f\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3092\u901a\u3058\u3066\u30e1\u30eb\u30ab\u30ea \u30b0\u30eb\u30fc\u30d7\u306b\u5fdc\u52df\u3055\u308c\u305f\u3053\u3068\u306f\u3042\u308a\u307e\u3059\u304b\uff1fhave you ever directly or indirectly applyed to any positions of mercari group? / \u904e\u53bb\u306b\u3054\u81ea\u8eab\u307e\u305f\u306f\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3092\u901a\u3058\u3066\u30e1\u30eb\u30ab\u30ea \u30b0\u30eb\u30fc\u30d7\u306b\u5fdc\u52df\u3055\u308c\u305f\u3053\u3068\u306f\u3042\u308a\u307e\u3059\u304b\uff1frequiredno, this is the first time (including other positions you might be appliying) / \u4eca\u56de\u304c\u521d\u3081\u3066\uff08\u540c\u6642\u306b\u8907\u6570\u30dd\u30b8\u30b7\u30e7\u30f3\u3092\u5fdc\u52df\u3057\u3066\u3044\u308b\u5834\u5408\u3082\u542b\u3080\uff09within 6months / \u534a\u5e74\u4ee5\u5185within a year / 1\u5e74\u4ee5\u5185more than a year / 1\u5e74\u4ee5\u4e0a\u524d",
+        "answer": "within a year / 1\u5e74\u4ee5\u5185"
+    },
+    {
+        "type": "radio",
+        "question": "do you have an employment history with mercari group? / \u904e\u53bb\u306b\u30e1\u30eb\u30ab\u30ea\u30b0\u30eb\u30fc\u30d7\u3067\u306e\u52e4\u52d9\u7d4c\u9a13\u304c\u3042\u308a\u307e\u3059\u304b\uff1fdo you have an employment history with mercari group? / \u904e\u53bb\u306b\u30e1\u30eb\u30ab\u30ea\u30b0\u30eb\u30fc\u30d7\u3067\u306e\u52e4\u52d9\u7d4c\u9a13\u304c\u3042\u308a\u307e\u3059\u304b\uff1frequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "please select your current status of residence in japan from the list below. we will confirm if you need visa support. / \u73fe\u5728\u304a\u6301\u3061\u306e\u65e5\u672c\u306b\u304a\u3051\u308b\u5728\u7559\u8cc7\u683c\u3092\u4e0b\u8a18\u304b\u3089\u304a\u9078\u3073\u304f\u3060\u3055\u3044\u3002\u30d3\u30b6\u30b5\u30dd\u30fc\u30c8\u304c\u5fc5\u8981\u306b\u306a\u308b\u304b\u78ba\u8a8d\u3092\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059\u3002please select your current status of residence in japan from the list below. we will confirm if you need visa support. / \u73fe\u5728\u304a\u6301\u3061\u306e\u65e5\u672c\u306b\u304a\u3051\u308b\u5728\u7559\u8cc7\u683c\u3092\u4e0b\u8a18\u304b\u3089\u304a\u9078\u3073\u304f\u3060\u3055\u3044\u3002\u30d3\u30b6\u30b5\u30dd\u30fc\u30c8\u304c\u5fc5\u8981\u306b\u306a\u308b\u304b\u78ba\u8a8d\u3092\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059\u3002",
+        "answer": "Japanese national (visa not required) / \u65e5\u672c\u56fd\u7c4d\u306e\u305f\u3081\u3001\u30d3\u30b6\u4e0d\u8981"
+    },
+    {
+        "type": "radio",
+        "question": "do you possess a valid visa or japanese nationality to join our internship in japan? / \u65e5\u672c\u3067\u30a4\u30f3\u30bf\u30fc\u30f3\u3092\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30d3\u30b6\u307e\u305f\u306f\u65e5\u672c\u56fd\u7c4d\u3092\u304a\u6301\u3061\u3067\u3059\u304b\uff1fdo you possess a valid visa or japanese nationality to join our internship in japan? / \u65e5\u672c\u3067\u30a4\u30f3\u30bf\u30fc\u30f3\u3092\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30d3\u30b6\u307e\u305f\u306f\u65e5\u672c\u56fd\u7c4d\u3092\u304a\u6301\u3061\u3067\u3059\u304b\uff1frequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "please enter your websites, social media accounts, github, etc. if you do not have any, please enter n/a. \u304a\u6301\u3061\u306e\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\u3001\u30bd\u30fc\u30b7\u30e3\u30eb\u30e1\u30c7\u30a3\u30a2\u3001github\u30a2\u30ab\u30a6\u30f3\u30c8\u7b49\u304c\u3042\u308c\u3070\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002\u304a\u6301\u3061\u3067\u306a\u3044\u5834\u5408\u306f\u300c\u306a\u3057\u300d\u3068\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002",
+        "answer": "Websites: take-off.uk; Metis-chat.vercel.app\nSocial Media: LinkedIn (in development)\nGitHub: null"
+    },
+    {
+        "type": "textbox",
+        "question": "please inform the name of your attending or graduated school or university / \u5352\u696d\u6e08\u307e\u305f\u306f\u5352\u696d\u4e88\u5b9a\u306e\u5b66\u6821\u30fb\u5927\u5b66\u540d\u3092\u6559\u3048\u3066\u4e0b\u3055\u3044",
+        "answer": "My degree is from Sarvajanik College of Engineering and Technology."
+    },
+    {
+        "type": "dropdown",
+        "question": "please inform your degree obtained or expected / \u53d6\u5f97\u4e88\u5b9a\u307e\u305f\u306f\u53d6\u5f97\u6e08\u306e\u5b66\u4f4d\u3092\u6559\u3048\u3066\u304f\u3060\u3055\u3044please inform your degree obtained or expected / \u53d6\u5f97\u4e88\u5b9a\u307e\u305f\u306f\u53d6\u5f97\u6e08\u306e\u5b66\u4f4d\u3092\u6559\u3048\u3066\u304f\u3060\u3055\u3044",
+        "answer": "Bachelor / \u5b66\u58eb"
+    },
+    {
+        "type": "dropdown",
+        "question": "please select your field of study / \u3042\u306a\u305f\u306e\u5c02\u653b\u5b66\u90e8\u306b\u6700\u3082\u8fd1\u3044\u3082\u306e\u3092\u9078\u629e\u3057\u3066\u4e0b\u3055\u3044please select your field of study / \u3042\u306a\u305f\u306e\u5c02\u653b\u5b66\u90e8\u306b\u6700\u3082\u8fd1\u3044\u3082\u306e\u3092\u9078\u629e\u3057\u3066\u4e0b\u3055\u3044",
+        "answer": "Engineering & Technologies / \u30a8\u30f3\u30b8\u30cb\u30a2\uff06\u30c6\u30af\u30ce\u30ed\u30b8\u30fc"
+    },
+    {
+        "type": "dropdown",
+        "question": "please specify your language preference for interviews. / \u9762\u63a5\u6642\u306b\u5e0c\u671b\u3059\u308b\u8a00\u8a9e\u3092\u3054\u9078\u629e\u304f\u3060\u3055\u3044\u3002please specify your language preference for interviews. / \u9762\u63a5\u6642\u306b\u5e0c\u671b\u3059\u308b\u8a00\u8a9e\u3092\u3054\u9078\u629e\u304f\u3060\u3055\u3044\u3002",
+        "answer": "English / \u82f1\u8a9e"
+    },
+    {
+        "type": "dropdown",
+        "question": "please select the appropriate level about your english language ability from below. please check each criteria from our web site. https://careers.mercari.com/language/ \u82f1\u8a9e\u30b9\u30ad\u30eb\u306b\u3064\u3044\u3066\u8a72\u5f53\u3059\u308b\u3082\u306e\u3092\u3054\u9078\u629e\u304f\u3060\u3055\u3044\u3002\u30ec\u30d9\u30eb\u306e\u57fa\u6e96\u306f\u63a1\u7528\u30b5\u30a4\u30c8\u3088\u308a\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002 https://careers.mercari.com/jp/language/please select the appropriate level about your english language ability from below. please check each criteria from our web site. https://careers.mercari.com/language/ \u82f1\u8a9e\u30b9\u30ad\u30eb\u306b\u3064\u3044\u3066\u8a72\u5f53\u3059\u308b\u3082\u306e\u3092\u3054\u9078\u629e\u304f\u3060\u3055\u3044\u3002\u30ec\u30d9\u30eb\u306e\u57fa\u6e96\u306f\u63a1\u7528\u30b5\u30a4\u30c8\u3088\u308a\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002 https://careers.mercari.com/jp/language/",
+        "answer": "Basic (CEFR - A2)"
+    },
+    {
+        "type": "dropdown",
+        "question": "please select the appropriate level about your japanese language ability from below. please check each criteria from our web site. https://careers.mercari.com/language/ \u65e5\u672c\u8a9e\u30b9\u30ad\u30eb\u306b\u3064\u3044\u3066\u8a72\u5f53\u3059\u308b\u3082\u306e\u3092\u3054\u9078\u629e\u304f\u3060\u3055\u3044\u3002\u30ec\u30d9\u30eb\u306e\u57fa\u6e96\u306f\u63a1\u7528\u30b5\u30a4\u30c8\u3088\u308a\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002 https://careers.mercari.com/jp/language/please select the appropriate level about your japanese language ability from below. please check each criteria from our web site. https://careers.mercari.com/language/ \u65e5\u672c\u8a9e\u30b9\u30ad\u30eb\u306b\u3064\u3044\u3066\u8a72\u5f53\u3059\u308b\u3082\u306e\u3092\u3054\u9078\u629e\u304f\u3060\u3055\u3044\u3002\u30ec\u30d9\u30eb\u306e\u57fa\u6e96\u306f\u63a1\u7528\u30b5\u30a4\u30c8\u3088\u308a\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002 https://careers.mercari.com/jp/language/",
+        "answer": "N/A / \u306a\u3057"
+    },
+    {
+        "type": "textbox",
+        "question": "please enter any qualifications you have related to language ability. (name of qualification, score and date) / \u8a9e\u5b66\u30b9\u30ad\u30eb\u306b\u3064\u3044\u3066\u8cc7\u683c\u304c\u3042\u308c\u3070\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002\uff08\u8cc7\u683c\u540d\u3001\u70b9\u6570\u3001\u53d6\u5f97\u65e5\uff09",
+        "answer": "Languages: Italian, English\n\u8a9e\u5b66\u30b9\u30ad\u30eb\u306b\u3064\u3044\u3066: None"
+    },
+    {
+        "type": "textbox",
+        "question": "please describe any team development experience you have. (internships, part-time jobs, school clubs, etc.) / \u30c1\u30fc\u30e0\u958b\u767a\u306e\u7d4c\u9a13\u304c\u3042\u308c\u3070\u5177\u4f53\u7684\u306b\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002\uff08\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u30fb\u30a2\u30eb\u30d0\u30a4\u30c8\u30fb\u8ab2\u5916\u6d3b\u52d5\u7b49\uff09\u307e\u305f\u3001\u3069\u306e\u3088\u3046\u306a\u30c1\u30fc\u30e0\u69cb\u6210\u3067\u305d\u306e\u4e2d\u3067\u3042\u306a\u305f\u304c\u3069\u3093\u306a\u5f79\u5272\u3092\u3057\u3066\u3044\u305f\u304b\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002\uff08\u3069\u306e\u304f\u3089\u3044\u306e\u4eba\u6570\u3067\u3001\u3069\u306e\u3088\u3046\u306a\u69cb\u6210\u306e\u30c1\u30fc\u30e0\u3067\u958b\u767a\u3057\u3066\u3044\u307e\u3057\u305f\u304b\u3002\uff09",
+        "answer": "I have no experience with team development."
+    },
+    {
+        "type": "textbox",
+        "question": "what technical stacks (programming language, framework, library and cloud, etc.) have you worked with before? also, which technical skill do you want to develop the most? please describe it along with the reason. / \u3053\u308c\u307e\u3067\u306e\u958b\u767a\u7d4c\u9a13\u306b\u304a\u3044\u3066\u3001\u3069\u306e\u3088\u3046\u306a\u6280\u8853\u30b9\u30bf\u30c3\u30af\uff08\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3001\u30d5\u30ec\u30fc\u30e0\u30ef\u30fc\u30af\u3001\u30e9\u30a4\u30d6\u30e9\u30ea\u3001\u30af\u30e9\u30a6\u30c9\u306a\u3069\uff09\u3092\u4f7f\u7528\u3057\u3066\u304d\u307e\u3057\u305f\u304b\u3002\u305d\u306e\u4e2d\u3067\u3042\u306a\u305f\u304c\u4e00\u756a\u4f38\u3070\u3057\u305f\u3044\u6280\u8853\u306f\u4f55\u3067\u3059\u304b\u3002\u7406\u7531\u3068\u3068\u3082\u306b\u6559\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "answer": "I have worked with MERN Stack (JavaScript, React, Node.js), Next.js, TypeScript, Elasticsearch. I want to develop Machine Learning skills, as it can be applied in various industries like software development and non-profit."
+    },
+    {
+        "type": "textbox",
+        "question": "please let us know your desired internship start date. our entry date is on the 1st and 16th of each month. please note that it will take approximately two month for the selection process to complete and 2 months to obtain a visa after the selection process is completed. / \u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u306e\u5e0c\u671b\u958b\u59cb\u6642\u671f\u3092\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002\u5165\u793e\u65e5\u306f\u6bce\u67081\u65e5\u304b16\u65e5\u3067\u3059\u3002\u9078\u8003\u306b\u304a\u6642\u9593\u3092\u8981\u3057\u307e\u3059\u306e\u3067\u3001\u3054\u5fdc\u52df\u304b\u30892\u30f6\u6708\u4ee5\u4e0a\u5148\u306e\u5e0c\u671b\u958b\u59cb\u6642\u671f\u3092\u3054\u8a18\u5165\u304f\u3060\u3055\u3044",
+        "answer": "You are open to remote work and willing to relocate.\n\nQuestion: Please let us know your desired internship start date. Our entry date is on the 1st and 16th of each month. Please note that it will take approximately two months for the selection process to complete and 2 months to obtain a visa after the selection process is completed."
+    },
+    {
+        "type": "textbox",
+        "question": "please let us know your desired internship end date. we ask the candidates to work as internship for three months. (negotiable) / \u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u306e\u5e0c\u671b\u7d42\u4e86\u6642\u671f\u3092\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u30023\u30f6\u6708\u9593\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u306b\u53c2\u52a0\u3057\u3066\u9802\u304f\u3053\u3068\u3092\u304a\u9858\u3044\u3057\u3066\u304a\u308a\u307e\u3059\u3002(\u5fdc\u76f8\u8ac7)",
+        "answer": "Question: Would you like to participate in an internship for three months?\nYes"
+    },
+    {
+        "type": "textbox",
+        "question": "how many days/hours per week are you available to work? (which weekday, how many times, timeslot) / \u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u306b\u51fa\u52e4\u53ef\u80fd\u306a\u66dc\u65e5\u3001\u56de\u6570\u3001\u6642\u9593\u5e2f\u3092\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002\uff08\u9031\u3042\u305f\u308a\uff09",
+        "answer": "I am open to a flexible schedule, but I don't have specific days/hours per week in mind. However, I can indicate that I am available on weekdays (e.g., Monday to Friday).\n\nFor an internship, I would be available to work on:\n\n- Weekdays: Every weekday\n- Frequency: Multiple times a week\n- Timeslot: Flexible, but preferably morning or afternoon sessions\n\nPlease let me know if this meets your requirements."
+    },
+    {
+        "type": "textbox",
+        "question": "why did you choose mercari group as your internship?(maximum 150 words) / \u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u5148\u306b\u30e1\u30eb\u30ab\u30ea\u3092\u9078\u3070\u308c\u305f\u7406\u7531\u3092\u6559\u3048\u3066\u304f\u3060\u3055\u3044\u3002\uff0a\u6700\u5927300\u5b57",
+        "answer": "I have no experience with Mercari Group, but I learn fast."
+    },
+    {
+        "type": "textbox",
+        "question": "what kind of your tech stack/skills do you think match the position?(maximum 150 words) / \u3054\u81ea\u8eab\u306e\u3069\u306e\u3088\u3046\u306a\u30c6\u30c3\u30af\u30b9\u30bf\u30c3\u30af\u3084\u30b9\u30ad\u30eb\u304c\u5f0a\u793e\u306e\u30a8\u30f3\u30b8\u30cb\u30a2\u30dd\u30b8\u30b7\u30e7\u30f3\u306b\u30de\u30c3\u30c1\u3057\u3066\u3044\u308b\u3068\u8003\u3048\u307e\u3059\u304b\uff1f\uff0a\u6700\u5927300\u5b57",
+        "answer": "I have experience with MERN Stack, Next.js, Elasticsearch. These technologies are relevant to the position I'm applying for."
+    },
+    {
+        "type": "radio",
+        "question": "all internships at the mercari group are conducted \u3010in japan\u3011 for all positions. have you confirmed that your university allows you to join our internship in japan? you can participate in an online internship from anywhere in japan, but online internships from overseas are generally not allowed. please note: if you have not checked yet with your university and in case you can\u2019t come to japan, there is a possibility that your offer will be withdrawn. / \u30e1\u30eb\u30ab\u30ea\u30b0\u30eb\u30fc\u30d7\u3067\u306e\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u306f\u3001\u5168\u30dd\u30b8\u30b7\u30e7\u30f3\u5171\u901a\u3067\u3010\u65e5\u672c\u3067\u5b9f\u65bd\u3055\u308c\u307e\u3059\u3011\u3002\u6765\u65e5\u3067\u306e\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u304c\u5927\u5b66\u5074\u3067\u8a8d\u3081\u3089\u308c\u3066\u3044\u308b\u304b\u3001\u78ba\u8a8d\u306f\u304a\u6e08\u307f\u3067\u3057\u3087\u3046\u304b\uff1f\u65e5\u672c\u56fd\u5185\u3067\u3042\u308c\u3070\u3069\u3053\u304b\u3089\u3067\u3082\u30aa\u30f3\u30e9\u30a4\u30f3\u3067\u30a4\u30f3\u30bf\u30fc\u30f3\u306b\u3054\u53c2\u52a0\u3044\u305f\u3060\u3051\u307e\u3059\u304c\u3001\u6d77\u5916\u304b\u3089\u306e\u30aa\u30f3\u30e9\u30a4\u30f3\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u306f\u539f\u5247\u4e0d\u53ef\u3067\u3059 \u203b\u6ce8\u610f\u203b\u65e5\u672c\u3067\u306e\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u304c\u8a8d\u3081\u3089\u308c\u306a\u3044\u5834\u5408\u3001\u30aa\u30d5\u30a1\u30fc\u304c\u53d6\u308a\u6d88\u3055\u308c\u308b\u53ef\u80fd\u6027\u304c\u3054\u3056\u3044\u307e\u3059\u306e\u3067\u4e88\u3081\u3054\u4e86\u627f\u304f\u3060\u3055\u3044\u3002all internships at the mercari group are conducted \u3010in japan\u3011 for all positions. have you confirmed that your university allows you to join our internship in japan? you can participate in an online internship from anywhere in japan, but online internships from overseas are generally not allowed. please note: if you have not checked yet with your university and in case you can\u2019t come to japan, there is a possibility that your offer will be withdrawn. / \u30e1\u30eb\u30ab\u30ea\u30b0\u30eb\u30fc\u30d7\u3067\u306e\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u306f\u3001\u5168\u30dd\u30b8\u30b7\u30e7\u30f3\u5171\u901a\u3067\u3010\u65e5\u672c\u3067\u5b9f\u65bd\u3055\u308c\u307e\u3059\u3011\u3002\u6765\u65e5\u3067\u306e\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u304c\u5927\u5b66\u5074\u3067\u8a8d\u3081\u3089\u308c\u3066\u3044\u308b\u304b\u3001\u78ba\u8a8d\u306f\u304a\u6e08\u307f\u3067\u3057\u3087\u3046\u304b\uff1f\u65e5\u672c\u56fd\u5185\u3067\u3042\u308c\u3070\u3069\u3053\u304b\u3089\u3067\u3082\u30aa\u30f3\u30e9\u30a4\u30f3\u3067\u30a4\u30f3\u30bf\u30fc\u30f3\u306b\u3054\u53c2\u52a0\u3044\u305f\u3060\u3051\u307e\u3059\u304c\u3001\u6d77\u5916\u304b\u3089\u306e\u30aa\u30f3\u30e9\u30a4\u30f3\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u306f\u539f\u5247\u4e0d\u53ef\u3067\u3059 \u203b\u6ce8\u610f\u203b\u65e5\u672c\u3067\u306e\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7\u304c\u8a8d\u3081\u3089\u308c\u306a\u3044\u5834\u5408\u3001\u30aa\u30d5\u30a1\u30fc\u304c\u53d6\u308a\u6d88\u3055\u308c\u308b\u53ef\u80fd\u6027\u304c\u3054\u3056\u3044\u307e\u3059\u306e\u3067\u4e88\u3081\u3054\u4e86\u627f\u304f\u3060\u3055\u3044\u3002requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "please read and agree to the recruitment privacy policy of the mercari group by checking on yes. (https://careers.mercari.com/en/privacy/) / \u30e1\u30eb\u30ab\u30ea\u30b0\u30eb\u30fc\u30d7\u306e\u63a1\u7528\u6d3b\u52d5\u306b\u304a\u3051\u308b\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc\u3092\u3054\u78ba\u8a8d\u306e\u4e0a\u3001\u540c\u610f(yes)\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002 (https://careers.mercari.com/privacy/)please read and agree to the recruitment privacy policy of the mercari group by checking on yes. (https://careers.mercari.com/en/privacy/) / \u30e1\u30eb\u30ab\u30ea\u30b0\u30eb\u30fc\u30d7\u306e\u63a1\u7528\u6d3b\u52d5\u306b\u304a\u3051\u308b\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc\u3092\u3054\u78ba\u8a8d\u306e\u4e0a\u3001\u540c\u610f(yes)\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002 (https://careers.mercari.com/privacy/)requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "[for non-japanese candidates who live outside of japan] please be mindful that you will need to pay the income tax for the duration of the internship. if you are a non-resident in japan, income tax will be deducted from your monthly paycheck at a flat rate of 20.42%, which is set by the japanese tax law. definition of \u201cnon-resident\u201d can be found in the url below. please select yes to move forward. [\u65e5\u672c\u4ee5\u5916\u306e\u56fd\u7c4d\u3067\u73fe\u5728\u65e5\u672c\u56fd\u5916\u306b\u304a\u4f4f\u307e\u3044\u306e\u65b9\u3078]\u30a4\u30f3\u30bf\u30fc\u30f3\u53c2\u52a0\u6642\u3001\u65e5\u672c\u306e\u975e\u5c45\u4f4f\u8005\u306e\u65b9\u306f\u6240\u5f97\u7a0e20.42%\u304c\u6bce\u6708\u306e\u7d66\u4e0e\u304b\u3089\u63a7\u9664\u3055\u308c\u307e\u3059\u3002\u65e5\u672c\u306b\u304a\u4f4f\u307e\u3044\u306e\u65b9\u306f\u5c45\u4f4f\u8005\u6271\u3044\u306b\u306a\u308a\u3001\u6240\u5f97\u7a0e\u306f\u7d2f\u9032\u8ab2\u7a0e\u3068\u306a\u308a\u307e\u3059\u3002\u65e5\u672c\u4eba\u306e\u65b9\u3067\u3082\u6d77\u5916\u5728\u4f4f\u306e\u65b9\u306f\u975e\u5c45\u4f4f\u8005\u6271\u3044\u306b\u306a\u308b\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u306e\u3067\u3001\u5b9a\u7fa9\u3092\u4ee5\u4e0b\u30ea\u30f3\u30af\u3088\u308a\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002\u540c\u610f\u3044\u305f\u3060\u3051\u308b\u5834\u5408\u306f\u540c\u610f(yes)\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002 https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm[for non-japanese candidates who live outside of japan] please be mindful that you will need to pay the income tax for the duration of the internship. if you are a non-resident in japan, income tax will be deducted from your monthly paycheck at a flat rate of 20.42%, which is set by the japanese tax law. definition of \u201cnon-resident\u201d can be found in the url below. please select yes to move forward. [\u65e5\u672c\u4ee5\u5916\u306e\u56fd\u7c4d\u3067\u73fe\u5728\u65e5\u672c\u56fd\u5916\u306b\u304a\u4f4f\u307e\u3044\u306e\u65b9\u3078]\u30a4\u30f3\u30bf\u30fc\u30f3\u53c2\u52a0\u6642\u3001\u65e5\u672c\u306e\u975e\u5c45\u4f4f\u8005\u306e\u65b9\u306f\u6240\u5f97\u7a0e20.42%\u304c\u6bce\u6708\u306e\u7d66\u4e0e\u304b\u3089\u63a7\u9664\u3055\u308c\u307e\u3059\u3002\u65e5\u672c\u306b\u304a\u4f4f\u307e\u3044\u306e\u65b9\u306f\u5c45\u4f4f\u8005\u6271\u3044\u306b\u306a\u308a\u3001\u6240\u5f97\u7a0e\u306f\u7d2f\u9032\u8ab2\u7a0e\u3068\u306a\u308a\u307e\u3059\u3002\u65e5\u672c\u4eba\u306e\u65b9\u3067\u3082\u6d77\u5916\u5728\u4f4f\u306e\u65b9\u306f\u975e\u5c45\u4f4f\u8005\u6271\u3044\u306b\u306a\u308b\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u306e\u3067\u3001\u5b9a\u7fa9\u3092\u4ee5\u4e0b\u30ea\u30f3\u30af\u3088\u308a\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002\u540c\u610f\u3044\u305f\u3060\u3051\u308b\u5834\u5408\u306f\u540c\u610f(yes)\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002 https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htmrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with front end engineering design (feed)?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with crypto?",
+        "answer": 3
+    },
+    {
+        "type": "dropdown",
+        "question": "i authorize jobgether to process my application data to evaluate my candidacy for this and other suitable positions, provide feedback, and share my information with potential employers.i authorize jobgether to process my application data to evaluate my candidacy for this and other suitable positions, provide feedback, and share my information with potential employers.",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with google cloud platform (gcp)?",
+        "answer": 1
+    },
+    {
+        "type": "dropdown",
+        "question": "this is a temporary b2b contract position, is this ok for you?this is a temporary b2b contract position, is this ok for you?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "depuis combien d\u2019ann\u00e9es utilisez-vous target audience ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "depuis combien d\u2019ann\u00e9es utilisez-vous analytique ?",
+        "answer": 8
+    },
+    {
+        "type": "numeric",
+        "question": "depuis combien d\u2019ann\u00e9es utilisez-vous d\u00e9veloppement agile ?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with mongodb?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience you have in scrum workflows ?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience you have in azure ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience you have in aws ?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "would you be fine with the package of 4.2 lpa ?",
+        "answer": 5
+    },
+    {
+        "type": "numeric",
+        "question": "what is your current ctc ?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "what is your notice period ?",
+        "answer": 30
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with core java?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "are you willing to work for reemote/ contract job aligning with us (pst time zone)are you willing to work for reemote/ contract job aligning with us (pst time zone)",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have minimum 3 years of either experience of spring/ springboot?do you have minimum 3 years of either experience of spring/ springboot?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "graphql or rest",
+        "answer": 5
+    },
+    {
+        "type": "numeric",
+        "question": "mongodb",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with terraform?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with google bigquery?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have as a backend engineer using java and spring boot?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with different api models, such as rest, soap, and grpc? do you have experience with different api models, such as rest, soap, and grpc?",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you worked with graphql or nosql databases?have you worked with graphql or nosql databases?",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "depuis combien d\u2019ann\u00e9es utilisez-vous c++ ?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you located in germany currently and have a valid work visa? are you located in germany currently and have a valid work visa?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed studies in the last 5 years?have you completed studies in the last 5 years?",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you speak fluent english, c1+?do you speak fluent english, c1+?",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with react & typescript?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of software leadership work experience do you have?",
+        "answer": 3
+    },
+    {
+        "type": "dropdown",
+        "question": "are you happy with a base up to \u20ac90k + 15% bonus? are you happy with a base up to \u20ac90k + 15% bonus?",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "wie viele jahre erfahrung haben sie mit: typescript?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "wie viele jahre erfahrung haben sie mit: react.js?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with typo3?",
+        "answer": 3
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in germany?are you legally authorized to work in germany?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with nosql?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with netapp?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with kotlin?",
+        "answer": 0
     }
 ]
