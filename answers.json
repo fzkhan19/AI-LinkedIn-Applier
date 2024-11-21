@@ -2223,5 +2223,380 @@
         "type": "dropdown",
         "question": "we have multiple react and react native roles in ca, tx, nj, ny, md, va, ga as well. would you be willing to go hybrid in any of these locations?we have multiple react and react native roles in ca, tx, nj, ny, md, va, ga as well. would you be willing to go hybrid in any of these locations?",
         "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with servicenow?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with mobile application development?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of professional software engineering experience do you have?",
+        "answer": 3
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have proficiency in either go or rust?do you have proficiency in either go or rust?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years experience do you have designing and implementing serverless microservices?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have proficiency in smart contract development using solidity at least one live deployed project on a mainnet evm chain? do you have proficiency in smart contract development using solidity at least one live deployed project on a mainnet evm chain?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you been involved in or launched a dex ( decentralised exchange)have you been involved in or launched a dex ( decentralised exchange)",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with stripe (software)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with software design patterns?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cloud firestore?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with gpt-4?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with stripe connect?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with jest?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with software as a service (saas)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with debugging code?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with chrome extensions?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with extension development?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how long have you been coding for?",
+        "answer": 6
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have a ltd company set up to work through?do you have a ltd company set up to work through?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you able to start within 2 weeks?are you able to start within 2 weeks?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with systems engineering?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with full-stack development?",
+        "answer": 3
+    },
+    {
+        "type": "textbox",
+        "question": "your message to the hiring manager",
+        "answer": "My background in software engineering, particularly my four years of experience building and optimizing SDKs using Kotlin, aligns perfectly with Trust Wallet's need for a Blockchain Kotlin Engineer.  My experience developing the Next.js-based airport taxi booking platform, TakeOff.com, showcases my ability to design and implement robust, user-friendly systems,  while my work integrating Elasticsearch with Langchain demonstrates my proficiency in enhancing search accuracy within complex applications.  This experience directly translates to the responsibilities outlined in the job description, including SDK development, system architecture design, and feature innovation.\n\nTrust Wallet's commitment to building the world\u2019s most trusted and secure crypto wallet resonates deeply with my passion for developing secure and reliable applications. My proven ability to work autonomously and collaboratively, coupled with my understanding of blockchain technology and smart contracts, makes me confident in my ability to contribute meaningfully to your team. The opportunity to contribute to an open-source project and work within a fast-paced, innovative environment is particularly exciting.\n\nMy skills in Kotlin Multiplatform SDK development, coupled with my experience in MERN and Next.js development, position me as a strong candidate to not only meet but exceed the expectations of this role. I am eager to discuss how my skills and experience can contribute to Trust Wallet's continued success and am confident I can make a significant impact on your team.\n"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with ruby on rails?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "are you currently in the uk?are you currently in the uk?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with solution architecture?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable with coding during the initial technical interviews ?are you comfortable with coding during the initial technical interviews ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of cloud exp do you have ?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "have you done presales before ?have you done presales before ?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with pcie?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with generative ai?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you working somewhere ?are you working somewhere ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "would you be comfortable with full time contact opportunity ?would you be comfortable with full time contact opportunity ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with icm?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with oracle database?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with software development?",
+        "answer": 3
+    },
+    {
+        "type": "dropdown",
+        "question": "would you be fine with annual package of 10 lpa ?would you be fine with annual package of 10 lpa ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "would you be able to join us on immediate basis?would you be able to join us on immediate basis?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "what's your current ctc?",
+        "answer": 5
+    },
+    {
+        "type": "numeric",
+        "question": "how many days of notice period do you have?",
+        "answer": 30
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in node.js? (mandatory experience)",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in typescript?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of hand on experience do you have in amazon ecs, eks services? (mandatory experience)",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in aws services (must have) : aws dynamodb, eks, ecs, s3, ec2, lambda?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you interested in full-time freelancing? (8 hours work on daily basis)are you interested in full-time freelancing? (8 hours work on daily basis)",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have permanent work from home mode in your current company?do you have permanent work from home mode in your current company?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for a period of 6 months ? are you available for a period of 6 months ?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with snaplogic ipaas?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with market research?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "we are looking for someone who has experience in lead generation campaigns on various channels, feel free to reach us at info@ionots.com if it suits your profile.we are looking for someone who has experience in lead generation campaigns on various channels, feel free to reach us at info@ionots.com if it suits your profile.",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with wordpress?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of analyst experience do you currently have?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "this is a contractual role for 6 months to a year's time. are you comfortable being part of the hiring process based on this knowledge?this is a contractual role for 6 months to a year's time. are you comfortable being part of the hiring process based on this knowledge?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "what is your current annual ctc? (in inr lpa)",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how soon can you join if things go well? (in number of days)",
+        "answer": 30
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience in core java development?do you have experience in core java development?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience in wso2 domain? (please be honest here as otherwise you'll get rejected in the first screening itself)do you have experience in wso2 domain? (please be honest here as otherwise you'll get rejected in the first screening itself)",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with scalable web applications?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have in customer service?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have hands-on experience with help desk tools such as zendesk?do you have hands-on experience with help desk tools such as zendesk?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you proficient in both phone-based and chat-based customer service interactions?are you proficient in both phone-based and chat-based customer service interactions?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable with the mentioned ctc range for the role?are you comfortable with the mentioned ctc range for the role?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience you have in teaching coding",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you ready for 8pm - 2am shift?are you ready for 8pm - 2am shift?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you open to work in night shift timings?are you open to work in night shift timings?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "can you join in a week's time?can you join in a week's time?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "what is your current compensation (in lpa)",
+        "answer": 5
+    },
+    {
+        "type": "dropdown",
+        "question": "knowledge of build tools (webpack, grunt, gulp).knowledge of build tools (webpack, grunt, gulp).",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "should have strong experience as a ui developershould have strong experience as a ui developer",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "optimize front-end performance to ensure fast load times and smooth user interactions.optimize front-end performance to ensure fast load times and smooth user interactions.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "develop high-quality, responsive, and cross-browser compatible front-end applications using html, css, and javascript. develop high-quality, responsive, and cross-browser compatible front-end applications using html, css, and javascript.",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with labware?",
+        "answer": 0
+    },
+    {
+        "type": "radio",
+        "question": "do you have the right to live and work in the uk?do you have the right to live and work in the uk?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "do you have 5+ years of commercial games development experience, with two or more shipped titles (or extensive work on a live services title)?do you have 5+ years of commercial games development experience, with two or more shipped titles (or extensive work on a live services title)?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "personal data consentpersonal data consentrequiredby applying for this job, \u03b9 confirm i have read, understood and accepted the content of the privacy notice and consent to the processing of my data as part of this application.",
+        "answer": "by applying for this job, \u03b9 confirm i have read, understood and accepted the content of the privacy notice and consent to the processing of my data as part of this application."
     }
 ]
