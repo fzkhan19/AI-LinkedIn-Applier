@@ -1,7 +1,7 @@
 remote: true
 
 experienceLevel:
-  internship: false
+  internship: true
   entry: true
   associate: true
   mid-senior level: false
@@ -25,14 +25,17 @@ date:
 
 positions:
   - "Next.js"
-  - "Frontend Developer"
+  - "Nextjs"
+  - "Next.js Developer"
   - "React Developer"
-  - "Web Developer"
+  - "Javascript Developer"
   - "Fullstack Developer"
+  - "Frontend Developer"
+  - "Web Developer"
 
 locations:
-  - "Ahmedabad, Gujarat, India"
   - "Germany"
+  - "Ahmedabad, Gujarat, India"
   - "USA"
   - "Hof"
   - "Mumbai, Maharashtra, India"

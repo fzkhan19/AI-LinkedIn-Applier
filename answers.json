@@ -2138,5 +2138,90 @@
         "type": "numeric",
         "question": "what is your total experience ?",
         "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "what is your university grade point average (4.0 gpa scale)?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with front-end engineering?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with back-end web development?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable working part-time (or full time) as a founding engineer of a startup company without salary in exchange for a large equity stake?are you comfortable working part-time (or full time) as a founding engineer of a startup company without salary in exchange for a large equity stake?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with startups?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with open source integration?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "c\u00f3digo del pa\u00edsc\u00f3digo del pa\u00eds",
+        "answer": "India (+91)"
+    },
+    {
+        "type": "textbox",
+        "question": "tel\u00e9fono m\u00f3vil",
+        "answer": "+917802844364\n"
+    },
+    {
+        "type": "numeric",
+        "question": "\u00bfcu\u00e1ntos a\u00f1os de experiencia tienes con hojas de estilos en cascada (css)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "\u00bfcu\u00e1ntos a\u00f1os de experiencia tienes con next.js?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "\u00bfcu\u00e1ntos a\u00f1os de experiencia tienes con typescript?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with c# in .net?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you live in arizona, utah or texas? - these are the only states eligible for this role.do you live in arizona, utah or texas? - these are the only states eligible for this role.",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "this role is only for w2 candidates only. are you willing to work on w2 or 1099? strictly no c2c candidates needed. no third party vendors should apply.this role is only for w2 candidates only. are you willing to work on w2 or 1099? strictly no c2c candidates needed. no third party vendors should apply.",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "please confirm your work authorization. select 1 for us citizen select 2 for green card select 3 for ead select 4 for others",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "what is your expected hourly rate?",
+        "answer": 20
+    },
+    {
+        "type": "dropdown",
+        "question": "we have multiple react and react native roles in ca, tx, nj, ny, md, va, ga as well. would you be willing to go hybrid in any of these locations?we have multiple react and react native roles in ca, tx, nj, ny, md, va, ga as well. would you be willing to go hybrid in any of these locations?",
+        "answer": "Yes"
     }
 ]
