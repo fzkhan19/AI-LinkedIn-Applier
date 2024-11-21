@@ -1973,5 +1973,170 @@
         "type": "numeric",
         "question": "how many years of work experience do you have with kotlin?",
         "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "what is your annual expected salary in inr?",
+        "answer": 5
+    },
+    {
+        "type": "dropdown",
+        "question": "can you start working immediately?can you start working immediately?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with no sql/ mongodb?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "would you like to receive emails, text messages, or phone calls about this job and other matching opportunities? these may be ai-generated artificial or prerecorded voice messages.would you like to receive emails, text messages, or phone calls about this job and other matching opportunities? these may be ai-generated artificial or prerecorded voice messages.",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed your bachelor's in cs through any iits?have you completed your bachelor's in cs through any iits?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of backend engineering experience do you have?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "how many years experience do you have with golang",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "are you based in europe?are you based in europe?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with reactjs or vuejs do you have experience with reactjs or vuejs",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with ecmascript?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "experience working on bicep (domain-specific language)",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "are you on any other type of visa that does not require sponsorship? (h4 ead, l2s, gc ead, etc.) are you on any other type of visa that does not require sponsorship? (h4 ead, l2s, gc ead, etc.)",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b, f-1, opt, cpt,etc.)? will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b, f-1, opt, cpt,etc.)?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have 6+ years of operational software development experience(this does not include, educational, internships, coding academy's, institutional environments)? do you have 6+ years of operational software development experience(this does not include, educational, internships, coding academy's, institutional environments)?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with javafx?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have the legal right to work in the uk or europedo you have the legal right to work in the uk or europe",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with model serving and runtimesdo you have experience with model serving and runtimes",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with openshift or other cloud native technologies?do you have experience with openshift or other cloud native technologies?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with figma (software)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with user experience (ux)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of financial services experience do you currently have?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microservices?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you working with a 3rd party employer?are you working with a 3rd party employer?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with search engine optimization (seo)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of investment management experience do you currently have?",
+        "answer": 0
+    },
+    {
+        "type": "dropdown",
+        "question": "can you strictly work on w2?can you strictly work on w2?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with genesys cloud?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with genesys pureconnect?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with genesys framework?",
+        "answer": 0
+    },
+    {
+        "type": "numeric",
+        "question": "what is your official notice period ?",
+        "answer": 30
+    },
+    {
+        "type": "numeric",
+        "question": "what is your expected ctc ?",
+        "answer": 40000
+    },
+    {
+        "type": "numeric",
+        "question": "how much experience do you have in digital bot flows?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "what is your total experience ?",
+        "answer": 2
     }
 ]
